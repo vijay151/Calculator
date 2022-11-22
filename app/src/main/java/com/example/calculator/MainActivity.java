@@ -3,6 +3,7 @@ package com.example.calculator;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -25,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         subtract = findViewById(R.id.btnSubtract);
         multiply = findViewById(R.id.btnMultiply);
         divide = findViewById(R.id.btnDivide);
+        Log.d("Calcular app","Update");
 
         add.setOnClickListener(new View.OnClickListener() {
             @Override
