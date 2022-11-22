@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Subtract">-</string>
+    <string name="Multiply">x</string>
+    <string name="Divide">/</string>
+    <string name="Add">+</string>
+    <string name="Enter_the_First_Value">Enter First Value</string>
+    <string name="enter_second_value">Enter Second Value</string>
+    <string name="multiply">*</string>
+    <string name="copyright">Copyright</string>
+</resources>
